@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_board>
+    <pass>
+        <loader>$PROJ_DIR$\FlashGD32F305xE.flash</loader>
+        <range>CODE 0x8010000 0x807ffff</range>
+    </pass>
+</flash_board>

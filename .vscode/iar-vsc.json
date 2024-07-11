@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\Proj\\Project.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\Proj\\Project.eww": {
+      "configs": {
+        "${workspaceFolder}\\Proj\\Project.ewp": "GD32F30X_CL"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\Proj\\Project.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "D:\\IAR9.31"
+  }
+}

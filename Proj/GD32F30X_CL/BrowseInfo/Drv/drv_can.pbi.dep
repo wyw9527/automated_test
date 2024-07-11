@@ -1,0 +1,66 @@
+C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\GD32F30X_CL\BrowseInfo\Drv\drv_can.pbi: \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_can.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_spi.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_rtc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_pwm.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_pmu.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_uart.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_adc.h \
+  D:\IAR9.31\arm\inc\c\DLib_float_setup.h D:\IAR9.31\arm\inc\c\ycheck.h \
+  D:\IAR9.31\arm\inc\c\math.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp_io.h \
+  D:\IAR9.31\arm\inc\c\DLib_Product_stdlib.h \
+  D:\IAR9.31\arm\inc\c\stdlib.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\gd32f30x.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_exmc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_enet.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_misc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_wwdgt.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_usart.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_timer.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_spi.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_sdio.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_rtc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_bkp.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_pmu.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_i2c.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_gpio.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_fwdgt.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_fmc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_exti.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_dma.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_dbg.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_dac.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_ctc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_crc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_can.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_adc.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\inc\gd32f30x_rcu.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\gd32f30x_libopt.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\GD32\system_gd32f30x.h \
+  D:\IAR9.31\arm\CMSIS\Core\Include\mpu_armv7.h \
+  D:\IAR9.31\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\IAR9.31\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  D:\IAR9.31\arm\CMSIS\Core\Include\cmsis_compiler.h \
+  D:\IAR9.31\arm\CMSIS\Core\Include\cmsis_version.h \
+  D:\IAR9.31\arm\CMSIS\Core\Include\core_cm4.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\include\rthw.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\components\finsh\finsh_config.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\components\finsh\finsh_api.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\include\rtservice.h \
+  D:\IAR9.31\arm\inc\c\stdarg.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\include\rtdef.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\include\rtdebug.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\include\rtthread.h \
+  D:\IAR9.31\arm\inc\c\DLib_Product_string.h \
+  D:\IAR9.31\arm\inc\c\string.h D:\IAR9.31\arm\inc\c\stdint.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\RTT\rtconfig.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\bsp.h \
+  C:\Users\ËïË¼Óê\Desktop\CAN_debugging\Proj\..\Bsp\board.h \
+  C:\Users\å­™æ€é›¨\Desktop\CAN_debugging\Drv\drv.h \
+  D:\IAR9.31\arm\inc\c\ysizet.h D:\IAR9.31\arm\inc\c\DLib_Product.h \
+  D:\IAR9.31\arm\inc\c\DLib_Config_Full.h \
+  D:\IAR9.31\arm\inc\c\DLib_Defaults.h D:\IAR9.31\arm\inc\c\yvals.h \
+  D:\IAR9.31\arm\inc\c\stdio.h \
+  C:\Users\å­™æ€é›¨\Desktop\CAN_debugging\Drv\drv_can.h \
+  C:\Users\å­™æ€é›¨\Desktop\CAN_debugging\Drv\drv_can.c

@@ -1,0 +1,15 @@
+"D:\IAR9.31\arm\bin\armPROC.dll" 
+
+"D:\IAR9.31\arm\bin\armJLINK.dll" 
+
+"C:\Users\孙思雨\Desktop\Automated _test\Proj\ACCharger\Exe\Project.out" 
+
+--plugin="D:\IAR9.31\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR9.31\arm/config/debugger/GigaDevice/GD32F30x_CL.dmac" 
+
+--flash_loader="D:\IAR9.31\arm/config/flashloader/GigaDevice/FlashGD32F30xxE.board" 
+
+
+
+
